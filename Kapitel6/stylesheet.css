@@ -1,0 +1,57 @@
+body {
+	font-family: Myriad Pro, Verdana, sans-serif;
+	font-size: 14px;	
+}
+
+code {
+	color: #0033CC;
+}
+
+h1 {
+	font-size: 16 px;
+	background-color: #CCCCCC;
+	margin: 20px 5px 20px 5px;
+	width: 80%;
+}
+
+p {
+	width: 80%;
+	margin: 20px 5px 20px 5px;
+}
+
+table {
+	text-align: left;
+	border: 1px solid #333333;
+	width: 80%;
+	margin: 5px;	
+}
+
+th {
+	padding: 2px 10px 2px 10px;
+}
+
+tr:nth-child(odd) td {
+	background-color: #CCCCFF;	
+}
+
+td {
+	margin: none;
+	padding: 2px 10px 2px 10px;	
+}
+
+td:first-child {
+	width: 20%;
+}
+
+td:nth-child(2) {
+	width: 40%;
+}
+
+td:nth-child(3) {
+	width: 10%;
+}
+
+td:nth-child(4) {
+	width: 10%;
+}
+
